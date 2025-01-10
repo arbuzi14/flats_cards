@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #c8c8c8;
+}
+
+.card__text {
+  font-size:  14px;
+  line-height: 35px;
+  color: #c8c8c8;;
+}
+
+.card__link:hover {
+  opacity: 0.7;
+  transform: translateY(-5px)
+}
