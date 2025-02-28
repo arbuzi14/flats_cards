@@ -117,6 +117,7 @@ background-color: #FFCF26;
 .radio__fake{
   position:relative;
   display:inline-block;
+  vertical-align:bottom;
   height:20px;
   width:20px;
   background-color:#fff;
@@ -281,7 +282,7 @@ background-color: #FFCF26;
   cursor:pointer;
   font-size:16px;
   font-weight:1.18;
-  color:#3c3c3c:
+  color:#3c3c3c;
   transition: all 0.2s  ease-in;
 }
 
